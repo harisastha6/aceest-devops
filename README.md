@@ -70,12 +70,16 @@ https://hub.docker.com/r/harisastha6/aceest-app
 * Kubernetes pods
 ![alt text](<blue green deployment running.png>)
 ![alt text](<running pods.png>)
-* Docker images
+* Docker image
 ![alt text](<docker hub images.png>)
+
+* Minikube
+
 ![alt text](<minikube running in docker.png>)
 
 * Deployment strategies (Blue and Green) :
 ![alt text](blue.png)
+
 ![alt text](green.png)
 ---
 * Deployment scaling
