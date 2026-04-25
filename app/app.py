@@ -11,7 +11,7 @@ def get_db():
 
 @app.route("/")
 def home():
-    return {"message": "ACEest DevOps API Running 🚀"}
+    return {"message": "ACEest DevOps API v2 🚀"}
 
 
 @app.route("/clients", methods=["POST"])
@@ -39,7 +39,9 @@ def get_clients():
 
     cur.execute("SELECT * FROM clients")
     return jsonify(cur.fetchall())
-
+@app.route("/version")
+def version():
+    return {"version": "v2"}
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
