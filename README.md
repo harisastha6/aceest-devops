@@ -74,13 +74,12 @@ https://hub.docker.com/r/harisastha6/aceest-app
 ![alt text](<docker hub images.png>)
 ![alt text](<minikube running in docker.png>)
 
-* Deployment strategies
-Blue :
+* Deployment strategies (Blue and Green) :
 ![alt text](blue.png)
-Green :
 ![alt text](green.png)
 ---
-
+* Deployment scaling
+![alt text](image.png)
 ## 🎯 Outcome
 
 Successfully built an end-to-end automated CI/CD pipeline ensuring:
