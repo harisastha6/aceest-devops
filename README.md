@@ -1,4 +1,6 @@
-# ACEest DevOps CI/CD Pipeline
+# ACEest DevOps CI/CD 
+
+[Python] [Docker] [Kubernetes] [CI/CD] [Tests] [Build Passing]
 
 ## 📌 Project Overview
 
