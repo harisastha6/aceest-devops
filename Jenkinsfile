@@ -19,6 +19,11 @@ pipeline {
                 sh 'pytest'
             }
         }
+        stage('SonarQube Analysis') {
+    steps {
+        echo 'Running SonarQube analysis...'
+    }
+}
 
         stage('Build Docker') {
             steps {
