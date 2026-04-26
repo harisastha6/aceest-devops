@@ -33,7 +33,7 @@ Developer → GitHub → Jenkins → Docker → Docker Hub → Kubernetes (Minik
 6. Kubernetes deploys the application
 7. Deployment strategies ensure zero downtime
 
-![alt text](<ChatGPT Image Apr 26, 2026, 02_37_17 PM.png>)
+![alt text](image-1.png)
 ---
 
 ## 🐳 Docker Hub Image
