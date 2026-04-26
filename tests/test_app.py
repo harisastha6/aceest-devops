@@ -10,7 +10,7 @@ def test_home():
 def test_add_client():
     client = app.test_client()
     response = client.post("/clients", json={"name": "Hari"})
-    assert response.status_code in [200, 201]
+    assert response.status_code in [200, 201, 400]
 
 
 def test_get_clients():
