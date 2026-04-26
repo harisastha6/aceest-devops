@@ -97,7 +97,7 @@ https://hub.docker.com/r/harisastha6/aceest-app
 
 ![alt text](green.png)
 ---
-* Deployment scaling
+* Deployment scaling(75% and 25%)
 ![alt text](image.png)
 
 ## ⚠️ Challenges & Solutions
