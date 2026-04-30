@@ -31,13 +31,13 @@ pipeline {
             }
         }
 
-        stage('Push Docker') {
-            steps {
-                sh 'docker tag aceest-app harisastha6/aceest-app:v1'
+     //   stage('Push Docker') {
+       //     steps {
+         //       sh 'docker tag aceest-app harisastha6/aceest-app:v1'
                 sh 'docker push harisastha6/aceest-app:v1'
-            }
-        }
-    }
+           // }
+        //}
+    //}
     post {
     success {
         echo 'Pipeline executed successfully!'
