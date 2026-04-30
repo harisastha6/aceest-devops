@@ -108,6 +108,11 @@ https://hub.docker.com/r/harisastha6/aceest-app
 * Deployment scaling(75% and 25%)
 ![alt text](image.png)
 
+*Jenkins CI/CD Pipeline Execution Stages
+![alt text](image-4.png)
+
+*SonarQube Issues Report
+![alt text](image-5.png)
 ## ⚠️ Challenges & Solutions
 
 * Docker setup issues → resolved with proper configuration
