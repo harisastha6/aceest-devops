@@ -84,6 +84,8 @@ https://hub.docker.com/r/harisastha6/aceest-app
 * Running application (v1 & v2)
 ![alt text](<canary version 1 running.png>)
 ![alt text](<canary version 2 running.png>)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 * Kubernetes pods
 ![alt text](<blue green deployment running.png>)
