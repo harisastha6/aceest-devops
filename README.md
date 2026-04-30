@@ -33,6 +33,9 @@ Developer → GitHub → Jenkins → Docker → Docker Hub → Kubernetes (Minik
 6. Kubernetes deploys the application
 7. Deployment strategies ensure zero downtime
 
+Note: CI/CD pipeline is implemented using Jenkins in a local environment. GitHub Actions pipeline is not configured for this project.
+
+
 ![alt text](image-1.png)
 ---
 
